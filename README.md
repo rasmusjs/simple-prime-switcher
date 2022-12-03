@@ -15,3 +15,6 @@ Proprietary drivers from NVIDEA for your system, GTK+ (default in Ubuntu Desktop
 1. Download the [script](https://github.com/rasmusjs/simple-prime-switcher/blob/main/Prime%20Profile%20switcher.sh) 
 2. Make the script executable ``chmod u+x Prime%20Profile%20switcher.sh``
 3. Run the script
+
+Or run 
+``wget https://raw.githubusercontent.com/rasmusjs/simple-prime-switcher/main/Prime%20Profile%20switcher.sh; sudo chmod u+x 'Prime Profile switcher.sh'; ./'Prime Profile switcher.sh'``
